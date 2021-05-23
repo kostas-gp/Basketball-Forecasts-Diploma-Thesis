@@ -1,0 +1,125 @@
+body
+{
+	background-image: url("paper.gif")
+	/*background-color:#778899; 
+    background-image: url("arxiki.png");
+    background-repeat: no-repeat;
+	-webkit-background-size: cover;
+    background-attachment: fixed;*/
+  
+}
+/* css gia stixisi selidas */
+#page-wrap {
+     width: 800px;
+     margin: 0 auto;
+}
+
+/* css gia tin epikefalida */
+
+#header {
+    background-color:#607299;
+    color:black;
+    text-align:center;
+    padding:30px;
+}
+
+/* css gia to koumpi */
+
+button
+{
+    margin: 5px 50px 10px 00px;
+    float:left;
+}
+
+/* css gia to navigation bar */
+
+ul {
+	overflow: hidden;
+    background-color: #333;
+    top: 0;
+    width: 100%;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+	float: left;
+    display: block;
+    color: blue;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    display: inline;
+}
+
+/* css gia ekremei */
+
+#nav {
+    line-height:30px;
+    background-color:#eeeeee;
+    height:300px;
+    width:100px;
+    float:left;
+    padding:5px;	      
+}
+#section {
+    width:390px;
+    float:right;
+    padding:5px;
+    
+}
+#section1{
+    width:395px;
+    float:center;
+    padding:10px;
+    
+}
+
+label{
+    display: inline-block;
+    float: left;
+    clear: left;
+    width: 250px;
+    text-align: right;
+}
+input {
+	 width:185px;
+  display: inline-block;
+  float: right;
+}
+#container{
+    width:100px;
+    text-align:right;
+    padding:10px;   
+}
+
+#dropdown{
+ display: inline-block;
+ float: right;
+ width: 54px;
+    
+}
+#users
+{
+    margin: 150px 500px 350px 500px;
+    float:left;
+    
+}
+#timeline
+{
+    margin: 15px 500px 150px 500px;
+    float:center;
+    
+}
+#timelineform
+{
+   margin: 15px 500px 180px 500px;
+    float:center; 
+}
+#showtasks
+{
+    margin: 5px 500px 2000px 500px;
+    float:center; 
+}
